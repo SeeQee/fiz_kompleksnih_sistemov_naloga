@@ -1,0 +1,10 @@
+﻿  fizika_kompleksnih sistemov_naloga_1.cpp
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(195,27): warning C4101: 'mindist': unreferenced local variable
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(194,9): warning C4101: 'II': unreferenced local variable
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(315,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(332,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(333,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(335,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1\fizika_kompleksnih sistemov_naloga_1.cpp(473,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  fizika_kompleksnih sistemov_naloga_1.vcxproj -> C:\Users\Milan Pavlovic\source\repos\fizika_kompleksnih sistemov_naloga_1\x64\Debug\fizika_kompleksnih sistemov_naloga_1.exe
